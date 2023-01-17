@@ -31,12 +31,13 @@ DevRev-Air is an Airline Management Application that stores information about fl
 - MongoDB
 - Bootstrap
 
-## High-Level Design 
+## High-Level Design
 
+![System-Design](https://user-images.githubusercontent.com/60184336/213012912-082dad38-bd89-413c-898d-81cc3b746293.png)
 
 ## Database Schemas
 
-<img width="468" alt="schema" src="https://user-images.githubusercontent.com/60184336/211133902-b48bfd3a-7bb0-4523-adbf-ca39720ae1f4.PNG">
+<img width="471" alt="DB-schema" src="https://user-images.githubusercontent.com/60184336/213012971-20b9616e-6284-4c53-94bf-d0c6e6cef01f.PNG">
 
 ## Screenshots of the Website
 ### 1. Sign-up Page
@@ -48,23 +49,27 @@ DevRev-Air is an Airline Management Application that stores information about fl
 ### 3. Search for Flights with necessary parameters 
 ![Search Flight](https://user-images.githubusercontent.com/60184336/211133948-e89cabf6-d9ea-4f77-bc54-01bfdb4e9650.png)
 
- ### All flight details according to From destination and To destination
+### 4. All flight details according to From destination and To destination
 <img width="960" alt="All Flight Details" src="https://user-images.githubusercontent.com/60184336/211133957-d9ccc54b-934a-4536-a3d2-f4d62142fae1.png">
 
-### Itinerary of the trip
+### 5. Itinerary of the trip
 ![Review](https://user-images.githubusercontent.com/60184336/211133966-4225f2e2-6444-4856-a66d-7cbe1155c15c.png)
 
-### Additional information of the user
-![Addinfo](https://user-images.githubusercontent.com/60184336/211133975-7603c294-ead4-45e1-ace3-56e436f7d46a.png)
+### 6. Additional information of the user and Payment details
+![info](https://user-images.githubusercontent.com/60184336/213013956-7f190e9d-0543-4a38-a4fb-b1a0f2e1e69d.png)
 
-### Successfully booked the flight! and display all the bookings of the user
-![Mybookings](https://user-images.githubusercontent.com/60184336/211133980-821e789b-d9f8-4fcc-ab2c-566ec354e7fe.png)
+### 7. Successfully booked the flight and display all the bookings of the user
+![booking](https://user-images.githubusercontent.com/60184336/213014035-a6167c91-44fc-4e9f-999b-19e40d3d6171.png)
 
-### Boarding Pass of the user for the flight
+### 8. Boarding Pass of the user for the flight
 ![Boarding pass](https://user-images.githubusercontent.com/60184336/211133983-5314084d-5f12-4bba-9b86-9a3bc72adb7d.png)
 
-### Cancel the booked flight ticket
+### 9. Cancel the booked flight ticket
 ![Cancel Tickets](https://user-images.githubusercontent.com/60184336/211133994-2bb2e10c-1147-4bb2-8dde-1a2cd4ccc181.png)
+
+### 10. User logged out successfully
+![logout](https://user-images.githubusercontent.com/60184336/213014478-559054ce-0def-49e6-b284-6006c2ea0121.png)
+
 
 ## Steps for Installation & Setup  
 ### 1. NodeJS Installation & Setup  
