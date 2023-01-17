@@ -64,7 +64,7 @@ DevRev-Air is an Airline Management Application that stores information about fl
 ### 8. Boarding Pass of the user for the flight
 ![Boarding pass](https://user-images.githubusercontent.com/60184336/211133983-5314084d-5f12-4bba-9b86-9a3bc72adb7d.png)
 
-### 9. Cancel the booked flight ticket
+### 9. Cancel the flight ticket
 ![Cancel Tickets](https://user-images.githubusercontent.com/60184336/211133994-2bb2e10c-1147-4bb2-8dde-1a2cd4ccc181.png)
 
 ### 10. User logged out successfully
