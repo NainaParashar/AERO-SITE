@@ -56,7 +56,7 @@ DevRev-Air is an Airline Management Application that stores information about fl
 ![Review](https://user-images.githubusercontent.com/60184336/211133966-4225f2e2-6444-4856-a66d-7cbe1155c15c.png)
 
 ### 6. Additional information of the user and Payment details
-![info](https://user-images.githubusercontent.com/60184336/213013956-7f190e9d-0543-4a38-a4fb-b1a0f2e1e69d.png)
+![info_pay](https://user-images.githubusercontent.com/60184336/213096581-e4bd1b47-caea-454d-84ee-fc76fec2772f.png)
 
 ### 7. Successfully booked the flight and display all the bookings of the user
 ![booking](https://user-images.githubusercontent.com/60184336/213014035-a6167c91-44fc-4e9f-999b-19e40d3d6171.png)
