@@ -12,11 +12,16 @@ module.exports.isLoggedIn = (req, res, next) => {
 
 // validate the user's card details
 module.exports.validateCardData = (req, res, next) => {
-  let { cardNumber, date, cvvData } = req.body;
+  let { cardNumber, date, cvvData, userName } = req.body;
   cardNumber = cardNumber.trim();
   cvvData = cvvData.trim();
-
-  // user's card data validation
+  userName = userName.trim();
+  var letters = /^[A-Za-z ]+$/;
+  if (userName && userName.match(letters)) {
+  } else {
+    req.flash("error", "Please enter your valid name on card.");
+    return res.redirect("/traveller");
+  }
 
   if (
     cardNumber.length != 16 ||
