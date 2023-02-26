@@ -22,7 +22,7 @@ DevRev-Air is an airline management web application consisting of flight & seat 
 
 
 ## Languages and Frameworks Used
-
+```
 - EJS
 - CSS3
 - Javascript
@@ -30,7 +30,7 @@ DevRev-Air is an airline management web application consisting of flight & seat 
 - ExpressJS
 - MongoDB
 - Bootstrap
-
+```
 ## High-Level Design
 
 ![System-Design](https://user-images.githubusercontent.com/60184336/213012912-082dad38-bd89-413c-898d-81cc3b746293.png)
