@@ -1,9 +1,9 @@
 # DevRev | Air
 
-## Aim:
+## Aim
 DevRev-Air is an airline management web application consisting of flight & seat availability details, managing flight schedules, fare tariffs, and passenger reservation details. The airline service inventory divides into three classes (economy, premium, and business) each with up to 20 seat bookings along with prices and availability details. Users can not only sort flights based on different parameters like price, travel duration, etc but also can book and pay for tickets with their credit/debit cards, and can cancel flights too.
 
-## Features of the Website : 
+## Features of the Website
 
 * Authentication:
   * Sign up for the website by the user.
