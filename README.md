@@ -26,7 +26,6 @@ DevRev-Air is an airline management web application consisting of flight & seat 
 - EJS
 - CSS3
 - Javascript
-- NodeJS
 - ExpressJS
 - MongoDB
 - Bootstrap
